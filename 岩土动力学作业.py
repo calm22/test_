@@ -1,3 +1,12 @@
+'''
+:@Author: Guod Wu
+:@Date: 2024/4/26 20:06:01
+:@LastEditors: Guod Wu
+:@LastEditTime: 2024/4/26 20:06:01
+:Description: 
+:Copyright: Copyright (©)}) 2024 Guod Wu. All rights reserved.
+'''
+
 import pandas as pd
 import numpy as np
 import scipy
